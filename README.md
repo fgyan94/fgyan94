@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Yan Gonçalves e sou um apaixonado desenvolvedor fullstack há 5 anos. <br />
-Tenho buscado aperfeiçoar meus conhecimentos dia a dia, no momento trabalhando com Typescript, NextJS, Node, Strapi, NestJS e Graphql.
+Meu nome é Yan Gonçalves e sou um apaixonado desenvolvedor fullstack há 5 anos. <br /><br />
+Tenho buscado aperfeiçoar meus conhecimentos dia a dia, no momento estou trabalhando com Typescript, NextJS, Node, Strapi, NestJS e Graphql.
 Estou atualmente realizando o curso <a href="https://www.udemy.com/course/react-avancado/">React Avançando</a>.
 
