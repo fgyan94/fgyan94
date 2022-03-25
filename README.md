@@ -20,3 +20,6 @@ Estou atualmente realizando o curso <a href="https://www.udemy.com/course/react-
 
 #### Projetos
 <a href="https://supplier.desapegueibybruna.com.br" target="_blank" id="link-desapeguei"><img src="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8" width=15 /> &nbsp;Desapeguei By Bruna </a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develowl&hide=contribs,prs)
