@@ -26,14 +26,20 @@
 					text-align: left;
 					padding: 1rem 2rem;
 				}
+				
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+				
 				ul {
 					list-style-type: none;
 					padding: 0;
+				}
+				
+				hr {
+				 width: 100%;
 				}
 			</style>
 			<div class="container">
