@@ -15,7 +15,6 @@
 						'Segoe UI Emoji';
 					display: flex;
 					flex-direction: column;
-					align-items: center;
 					justify-content: center;
 					margin: 0;
 					width: 100%;
@@ -47,10 +46,10 @@
 				}
 			</style>
 			<div class="container">
-				<h2>Hi world 👋, I'm Yan Gonçalves</h2>
+				<h1>Hi world 👋, I'm Yan Gonçalves</h1>
 				<hr/>
 
-				<h4>System Analyst at SL BRASIL | A passionate full-stack developer from Brazil.</h4>
+				<h3>System Analyst at SL BRASIL | A passionate full-stack developer from Brazil.</h3>
 				
 				
 
