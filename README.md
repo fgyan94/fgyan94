@@ -24,7 +24,3 @@ Estou atualmente realizando o curso <a href="https://www.udemy.com/course/react-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develowl&show_icons=true&theme=omni&title_color=fe428e&bg_color=141321&hide=contribs)](https://github.com/develowl/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develowl&show_icons=true&theme=omni&title_color=f8d847&bg_color=141321&icon_color=e779a5&hide=contribs)](https://github.com/develowl/github-readme-stats)
-<br/><br/><br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develowl&show_icons=true&theme=omni&title_color=fe428e&hide=contribs)](https://github.com/develowl/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develowl&show_icons=true&theme=omni&title_color=f8d847&icon_color=e779a5&hide=contribs)](https://github.com/develowl/github-readme-stats)**
