@@ -44,7 +44,7 @@
 				
 				#pdi {
 					background: url("https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg")
-					background-width: 50px;
+					background-size: 50px 50px;
 				}
 			</style>
 			<div class="container">
