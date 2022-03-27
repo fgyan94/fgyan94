@@ -8,7 +8,7 @@
 
 - 💻 I’m constantly learning **Typescript, React, Next.js, Node, React Native**
 
-- 💜 Building cool stuffs with **React, Typescript, Node, React Native, Next.js**
+- 💜 Building cool stuff with **React, Typescript, Node, React Native, Next.js**
 
 - 💬 Ask me about **Tech, Series, Games and Geek stuff**
 <hr/>
