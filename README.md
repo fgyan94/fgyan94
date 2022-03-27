@@ -6,7 +6,7 @@
 
 - 👨‍🏭 I’m currently working on [PDI - SL BRASIL](https://github.com/develowl/pdi-client)
 
-- 💻 I’m constantly learning **React Native, React, Next.js**
+- 💻 I’m constantly learning **Typescript, React, Next.js, Node, React Native**
 
 - 💜 Building cool stuffs with **React, Typescript, Node, React Native, Next.js**
 
