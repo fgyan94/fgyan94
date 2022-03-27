@@ -43,7 +43,7 @@
 				}
 				
 				#pdi {
-					background: url("https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg")
+					background-image: url("https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg")
 					background-size: 50px 50px;
 				}
 			</style>
@@ -69,7 +69,7 @@
 						<img src="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8" height="50px" width="50px" /> Desapeguei By Bruna
 					</a>
 					<a href="https://github.com/develowl/pdi-client" target="_blank" id="link-desapeguei">
-						<span id="pdi">a</span>Programa de Desenvolvimento Pessoal - SL BRASIL
+						<span id="pdi"></span>Programa de Desenvolvimento Pessoal - SL BRASIL
 					</a>
 					
 					
