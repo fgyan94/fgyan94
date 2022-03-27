@@ -61,7 +61,7 @@
 				<h3>Projects</h3>
 					<a href="https://github.com/develowl/pdi-client" target="_blank" id="link-desapeguei">
 						<svg> 
-							<use href"https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg" height="50" width="50" />Programa de Desenvolvimento Pessoal - SL BRASIL
+							<use xlink:href"https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg" height="50" width="50" />Programa de Desenvolvimento Pessoal - SL BRASIL
 						</svg>
 					</a>
 					
