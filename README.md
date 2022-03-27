@@ -18,10 +18,10 @@
 <ul>
   <li>
   <a href="https://github.com/develowl/desapeguei-fila-client" target="_blank">
-    <img src="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8" width=50 /> &nbsp;Desapeguei By  Bruna</a>
+    <img src="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8" width=15 /> &nbsp;Desapeguei By  Bruna</a>
   </li>
   <li>
-    <a href="https://github.com/develowl/pdi-client" target="_blank" id="link-desapeguei"><img src="https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg" width=50> &nbsp;Programa de Desenvolvimento Pessoal - SL BRASIL</img></a>
+    <a href="https://github.com/develowl/pdi-client" target="_blank" id="link-desapeguei"><img src="https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo.svg" width=15> &nbsp;Programa de Desenvolvimento Pessoal - SL BRASIL</img></a>
   </li>
 </ul>
 <hr/>
