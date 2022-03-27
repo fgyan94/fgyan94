@@ -61,10 +61,10 @@
 				<h3>Projects</h3>
 				
 						<a href="https://github.com/develowl/desapeguei-fila-client" target="_blank">
-							<image href="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8.png" x="0" y="0" height="150px" width="150px" />Desapeguei By Bruna
+							<image href="https://s3-sa-east-1.amazonaws.com/bossabox-uploads/61d37f3cd7621f000e6b1aea/81541570-a8ae-11ec-ab9a-a5e3297b44e8.png" x="0" y="0" height="50px" width="150px" />Desapeguei By Bruna
 						</a>
 						<a href="https://github.com/develowl/pdi-client" target="_blank" id="link-desapeguei">
-							<image href="https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg" x="0" y="0" height="150px" width="150px" />Programa de Desenvolvimento Pessoal - SL BRASIL
+							<embed href="https://raw.githubusercontent.com/develowl/pdi-client/cd7208799ad8d76ad745b477bf0db6bf375449ec/public/img/logo-pdi.svg" x="0" y="0" height="150px" width="150px" />Programa de Desenvolvimento Pessoal - SL BRASIL
 						</a>
 				<hr/>
 
