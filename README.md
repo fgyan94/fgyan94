@@ -4,7 +4,7 @@
 
 #### System Analyst at SL BRASIL | A passionate full-stack developer from Brazil.
 
-- 👨‍🏭 I’m currently working on [PDI - SL BRASIL](https://github.com/develowl/pdi-client)
+- 👨🏻‍💻 I’m currently working on [PDI - SL BRASIL](https://github.com/develowl/pdi-client)
 
 - 💻 I’m constantly learning **Typescript, React, Next.js, Node, React Native**
 
