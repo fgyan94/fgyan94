@@ -2,9 +2,9 @@
 
 <hr/>
 
-#### System Analyst at SL BRASIL | A passionate full-stack developer from Brazil.
+#### Node developer at Happmobi | A passionate full-stack developer from Brazil.
 
-- 👨🏻‍💻 I’m currently working on [PDI - SL BRASIL](https://github.com/fgyan94/pdi-client)
+- 👨🏻‍💻 I’m currently working in some private and personal projects.
 
 - 💻 I’m constantly learning **Typescript, React, Next.js, Node, React Native**
 
