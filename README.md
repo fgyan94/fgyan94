@@ -2,7 +2,7 @@
 
 <hr/>
 
-#### Node developer at Happmobi | A passionate full-stack developer from Brazil.
+#### Node developer at [Happmobi](https://happmobi.com.br/) | A passionate full-stack developer from Brazil.
 
 - 👨🏻‍💻 I’m currently working in some private and personal projects.
 
